@@ -1,0 +1,196 @@
+Anemone
+Broadleaf Plantain
+Chamomile
+Echinacea
+Hyacinth
+Joe_pye_weed
+Jonquil
+Lisianthus
+Madagascar_Periwinkle
+Mini-Carnation_purple
+Poinsettia
+Pompon
+Primrose_blue
+Protea
+Ranunculus
+Trachelium
+Waxflower
+aeonium
+agapanthus
+alfalfa
+allium
+alpine sea holly
+amaryllis
+anthurium
+artichoke
+aster
+azalea
+baby_breath
+ball_moss
+balloon flower
+barbeton daisy
+bearded iris
+bee balm
+bird_of_paradise
+bishop of llandaff
+black-eyed susan
+blackberry_lily
+blanket_flower
+blue_chicory
+bolero deep blue
+borage
+bougainvillea
+bromelia
+bromeliad
+burdock
+buttercup
+calendula
+californian poppy
+camellia
+canna lily
+canterbury_bells
+cape flower
+carnation
+cautleya spicata
+chickweed
+chicory
+chive_blossom
+clematis
+colt's_foot
+columbine
+common_milkweed
+common_yarrow
+coneflower
+corn poppy
+coronation_gold
+cow_parsley
+cowslip
+crimson_clover
+crocus_blue
+cyclamen
+daffodil
+daisy
+daisy fleabane
+dandelion
+datura
+delonix_regia
+desert-rose
+downy _yellow_violet
+elderberry
+evening_primrose
+fennel
+fern_leaf_yarrow
+fire lily
+fireweed
+forget_me_not
+foxglove
+frangipani
+fritillary
+garden phlox
+gardenia
+garlic_mustard
+gaura
+gazania
+geranium
+giant white arum lily
+globe-flower
+globe_thistle
+golden_champa
+grape hyacinth
+great masterwort
+ground_ivy
+hard_leaved_pocket_orchid
+harebell
+henbit
+herb_robert
+hibiscus
+hippeastrum
+iris
+japanese anemone
+jasmine
+king protea
+knapweed
+larkspur
+lenten rose
+lily
+lotus
+love in the mist
+magnolia
+mallow
+marigold
+meadowsweet
+mexican aster
+mexican_petunia
+milk_thistle
+monkshood
+moon_orchid
+morning_glory
+mullein
+mustard
+narcissistic
+new_england_aster
+oleander
+orange dahlia
+orchid
+osteospermum
+oxeye daisy
+palash
+passion flower
+pelargonium
+peruvian lily
+petunia
+pickerelweed
+pincushion flower
+pink-yellow dahlia
+pink_primrose
+primula
+prince of wales feathers
+purple coneflower
+queen_annes_lace
+ramsons
+red ginger
+red-hot_poker
+red_clover
+red_rose
+rose
+ruby-lipped cattleya
+saffron
+sedum_purple
+siam tulip
+silverbush
+snapdragon
+solidago
+spear thistle
+spring crocus
+spring_beauty
+st_john
+statice_flower
+stemless gentian
+sunflower
+sweet william
+sweet_pea
+sword lily
+tea_plant
+teasel
+thorn_apple
+tiger_lily
+toad lily
+touch_me_not
+tree mallow
+tree poppy
+trumpet_creeper
+tuberose
+tulip
+vervain_mallow
+viola
+wallflower
+water lily
+watercress
+white_yarrow
+wild pansy
+wild_bee_balm
+wild_leek
+windflower
+yellow iris
+yellow_sow_thistle
+zinnia_flower_red
